@@ -5,7 +5,7 @@ rke:
   tags:
     - Local-Runner
   script:
-  # khởi tạo thư mục chứa file config để chạy Packer, tùy user tạo ở đâu thì config lại nhé.
+   # khởi tạo thư mục chứa file config để chạy Packer, tùy user tạo ở đâu thì config lại nhé.
     - mkdir /home/gitlab-runner/packer
     - cp -rf * /home/gitlab-runner/packer
     - cd /home/gitlab-runner/packer/ubuntu
