@@ -15,8 +15,8 @@
     "var_iso_checksum_type": "sha256",
     "var_iso_checksum": "8c5fc24894394035402f66f3824beb7234b757dd2b5531379cb310cedfdf0996",
     "var_floppy_path": "18.04/preseed.cfg",
-    "var_guest_username": "khoa",
-    "var_guest_password": "1"
+    "var_guest_username": "User ID",
+    "var_guest_password": "User pass"
   }
   ,
   "builders": [
